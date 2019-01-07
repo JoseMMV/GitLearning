@@ -2,4 +2,5 @@
     'Root comment
     'Comment added
     'Comment for master branch
+    '0*0=0
 End Class
